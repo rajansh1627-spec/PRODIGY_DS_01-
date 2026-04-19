@@ -27,13 +27,25 @@ The dataset used in this project is included in this repository (`dataset.csv`).
 * Power Query
 * CSV File
 
-## 📈 Key Insights
+ ## 📌 Key Insights
 
-* Top 5 countries with highest population
-* Countries with lowest population
-* Population growth trend from 1960 to 2024
-* Comparison between different countries
+- 🌍 **Steady Population Growth:** Global population has shown a consistent upward trend from 1960 and is projected to continue growing through 2030.
 
+- 📈 **Rapid Growth After 2000:** The population growth rate has accelerated significantly in the 21st century.
+
+- 🌐 **Uneven Population Distribution:** A small number of countries contribute a large share of the global population, while many countries have very low population counts.
+
+- 🏙️ **Top vs Least Populated Gap:** There is a massive difference between the most populated countries (e.g., Yemen, Zambia) and the least populated ones (e.g., San Marino, Tuvalu).
+
+- 💰 **Income Group Imbalance:** A large proportion of countries fall under the **high-income group (~40%)**, whereas **low-income countries (~11.9%)** represent a much smaller share.
+
+- 📊 **Skewed Population Data:** The average population (~302M) is significantly lower than the maximum (~7B), indicating that population distribution is highly skewed.
+
+- 🧭 **Wide Dataset Coverage:** The dataset includes **264 countries across 65 years**, making it suitable for long-term trend analysis.
+
+- 🔍 **Insightful Filtering:** Income group and country-level filters allow deeper exploration of population patterns and economic segmentation.
+
+> 📢 Overall, the analysis highlights that global population growth is consistent, but its distribution remains highly unequal across countries and income groups.
 ## 🖼️ Dashboard Preview
 
 ![Dashboard](dashboard.png)
