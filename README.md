@@ -29,7 +29,7 @@ The dataset used in this project is included in this repository (`dataset.csv`).
 
  ## 📌 Key Insights
 
-- 🌍 **Steady Population Growth:** Global population has shown a consistent upward trend from 1960 and is projected to continue growing through 2030.
+- 🌍 **Steady Population Growth:** Global population has shown a consistent upward trend from 1960 and is projected to continue growing through 2025.
 
 - 📈 **Rapid Growth After 2000:** The population growth rate has accelerated significantly in the 21st century.
 
